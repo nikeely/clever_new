@@ -221,7 +221,8 @@ generate_config() {
                 "type":"field",
                 "domain":[
                     "domain:openai.com",
-                    "domain:ai.com"
+                    "domain:ai.com",
+                    "domain:netflix.com"
                 ],
                 "outboundTag":"WARP"
             }
